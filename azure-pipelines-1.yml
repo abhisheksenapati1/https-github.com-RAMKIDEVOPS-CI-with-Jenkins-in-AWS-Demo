@@ -27,5 +27,4 @@ steps:
   inputs:
     cwd: '$(System.DefaultWorkingDirectory)'
     projectName: 'AbhishekAzureDemo'
-    directScan: true
     
